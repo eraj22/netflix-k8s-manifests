@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: netflix
-        image: eraj22/netflix:latest
+        image: eraj222/netflix:latest
         ports:
         - containerPort: 80
